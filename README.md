@@ -36,18 +36,18 @@ To run this project locally, make sure you have the following libraries installe
 
 You can install the required libraries using `pip`:
 
-```bash
+
 pip install numpy pandas matplotlib scikit-learn keras tensorflow
 Running the Code
 Clone this repository to your local machine:
 
-bash
+
 Copy code
 git clone https://github.com/your-username/churn-prediction.git
 cd churn-prediction
 Run the ChurnPredictionModel.py script:
 
-bash
+
 Copy code
 python ChurnPredictionModel.py
 This will train the model, plot the accuracy and loss graphs, and output the predictions and confusion matrix.
